@@ -1,5 +1,5 @@
 # Super Store Sales by Category Visualization
-This visualization displays the percentage of total global sales for a super store by category. It provides insights into the distribution of sales across different categories and helps identify the categories that contribute the most and the least to the store's overall sales.
+This visualization displays the percentage of total global sales for a super store by category in a radial chart. It provides insights into the distribution of sales across different categories and helps identify the categories that contribute the most and the least to the store's overall sales.
 #### Dataset: http://www.tableau.com/sites/default/files/training/global_superstore.zip
 
 Usage
